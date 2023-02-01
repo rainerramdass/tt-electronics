@@ -16,7 +16,7 @@
                         <img src="images/logo/tt-electronics-logo.png" alt="images/alerts/file_notfound.png">
                     </ul>
                     <!-- Welcome Message -->
-                    <h1 class="text-bg-dark text-center p-3 ">WELCOME TO TT ELECTRONICS</h1>
+                    <h1 class="text-bg-dark text-center p-3 ">Welcome To TT Electronics</h1>
                     <div class="row" style="position:relative; top:25px;">
                         <ul class="nav justify-content-center">
                             <div class="card-body text-center">
